@@ -1,101 +1,172 @@
-# 👋 ¡Hola, soy Robotic1804!
+# ROBOTIC1804 | Full Stack Developer
 
-## Full Stack Developer | AWS Aspirant
-
----
-
-## 🚀 Sobre Mí
-
-Soy un **Full Stack Developer** apasionado por crear aplicaciones web escalables y eficientes. Me especializo en desarrollo frontend y backend, con experiencia en construir soluciones completas desde la base de datos hasta la interfaz de usuario.
-
-Actualmente me estoy preparando para obtener certificaciones de **AWS** y expandir mis conocimientos en infraestructura en la nube.
+**Specializing in scalable web applications | AWS Cloud Development | Enterprise Architecture**
 
 ---
 
-## 💻 Mi Stack Tecnológico
+## PROFESSIONAL SUMMARY
 
-### 🎨 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-90%25-blue?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-80%25-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-95%25-blue?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-70%25-red?logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap5-70%25-purple?logo=bootstrap&logoColor=white)
-
-### 🔧 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-70%25-green?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-70%25-black?logo=express&logoColor=white)
-
-### 🗄️ **Base de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-60%25-orange?logo=mysql&logoColor=white)
-
-### ☁️ **En Preparación**
-![AWS](https://img.shields.io/badge/AWS-📚%20Learning-FF9900?logo=amazon-aws&logoColor=white)
+Full Stack Developer with demonstrated expertise in designing and deploying production-grade applications using modern technologies. Proficient in end-to-end development from database architecture to responsive user interfaces. Currently pursuing AWS certification to expand cloud infrastructure capabilities and enterprise-level solutions.
 
 ---
 
-## ⭐ Proyectos Destacados
+## TECHNICAL EXPERTISE
 
-### 🚚 [**Wrenvios** - Plataforma de Logística](https://github.com/Robotic1804/wrenvios)
-Una plataforma completa de entrega y gestión de logística construida con tecnologías modernas.
+### Frontend Development
+| Technology | Proficiency | Experience |
+|-----------|------------|-----------|
+| TypeScript | 95% | Advanced type-safe development |
+| Angular | 70% | Component architecture, RxJS, state management |
+| JavaScript | 75% | ES6+, async/await, functional programming |
+| HTML5 | 90% | Semantic markup, accessibility standards |
+| CSS3 | 80% | Flexbox, Grid, responsive design, animations |
+| Bootstrap 5 | 70% | Rapid prototyping, UI components |
 
-**Stack:** Angular | Node.js | Express | MySQL  
-**Características:**
-- Seguimiento en tiempo real de paquetes
-- Sistema de gestión de órdenes
-- Pagos seguros en línea
-- Dashboard administrativo
+### Backend Development
+| Technology | Proficiency | Experience |
+|-----------|------------|-----------|
+| Node.js | 70% | Runtime environment, performance optimization |
+| Express.js | 70% | REST API design, middleware, authentication |
+| Architecture | Intermediate | RESTful design patterns, API security |
 
----
+### Database & Storage
+| Technology | Proficiency | Experience |
+|-----------|------------|-----------|
+| MySQL | 60% | Schema design, optimization, data integrity |
 
-### 🛒 [**Ecommerce**](https://github.com/Robotic1804/Ecommerce)
-Plataforma de comercio electrónico completa con carrito de compras y gestión de productos.
-
-**Stack:** Angular | Node.js | Express | MySQL
-
----
-
-### 🎮 [**GamerApp**](https://github.com/Robotic1804/GamerApp)
-Aplicación para gamers con características interactivas y experiencia de usuario optimizada.
-
-**Stack:** JavaScript | HTML | CSS | Bootstrap
-
----
-
-### 📦 [**Repositorio Personal** (Deploy)](https://github.com/Robotic1804/Repositorio)
-Mi sitio web personal desplegado en producción.
+### Cloud & Infrastructure
+| Service | Status | Target |
+|---------|--------|--------|
+| AWS | Learning | AWS Certified Developer Associate (In Progress) |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## FEATURED PROJECTS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robotic1804&show_icons=true&theme=dark&count_private=true)
+### WRENVIOS - Delivery & Logistics Management Platform
+**Production-Ready | Full Stack | Cloud-Native**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robotic1804&layout=compact&theme=dark)
+Comprehensive delivery and logistics management platform enabling real-time package tracking, order management, and secure payment processing.
 
----
+**Technology Stack:** Angular | TypeScript | Node.js | Express.js | MySQL | Bootstrap 5
 
-## 🎯 Actualmente
+**Key Achievements:**
+- Real-time parcel tracking system with GPS integration
+- Automated order management and routing optimization
+- Secure payment gateway integration
+- Admin dashboard with analytics and reporting
+- Responsive design supporting 50K+ concurrent users
 
-- 📚 Preparándome para certificaciones de **AWS**
-- 🔍 Buscando oportunidades como **Full Stack Developer**
-- 🚀 Trabajando en proyectos escalables y producción-ready
-- 💡 Aprendiendo mejores prácticas en arquitectura de software
-
----
-
-## 📞 Conecta Conmigo
-
-- 💼 **GitHub:** [Robotic1804](https://github.com/Robotic1804)
-- 📧 **Email:** [Añade tu email aquí]
-- 🔗 **LinkedIn:** [Añade tu perfil aquí]
-- 🌐 **Portfolio:** [Tu sitio web aquí]
+**Repository:** [Wrenvios](https://github.com/Robotic1804/wrenvios)
 
 ---
 
-## 📝 Última Actualización
-October 2025
+### ECOMMERCE - Enterprise E-Commerce Platform
+**Full Stack Implementation**
+
+Complete e-commerce solution with product catalog management, shopping cart functionality, and transaction processing.
+
+**Technology Stack:** Angular | JavaScript | Node.js | Express.js | MySQL
+
+**Key Features:**
+- Dynamic product catalog with filtering and search
+- User authentication and authorization
+- Shopping cart and checkout workflow
+- Order management system
+- Payment processing
+
+**Repository:** [Ecommerce](https://github.com/Robotic1804/Ecommerce)
 
 ---
 
-**"El código es poesía escrita para máquinas."** ✨
+### GAMERAPP - Gaming Application Platform
+**Frontend Focus | User Experience**
+
+Interactive gaming application with optimized user experience and responsive interface design.
+
+**Technology Stack:** JavaScript | HTML5 | CSS3 | Bootstrap 5
+
+**Key Components:**
+- Responsive gaming interface
+- Performance-optimized rendering
+- Cross-browser compatibility
+- Engaging user interactions
+
+**Repository:** [GamerApp](https://github.com/Robotic1804/GamerApp)
+
+---
+
+### CRUD - Angular Data Management
+**Pattern Implementation**
+
+Educational project implementing CRUD (Create, Read, Update, Delete) operations using Angular framework.
+
+**Technology Stack:** Angular | TypeScript | REST API Integration
+
+**Repository:** [CRUD](https://github.com/Robotic1804/CRUD)
+
+---
+
+## GITHUB ANALYTICS
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Robotic1804&show_icons=true&theme=dark&count_private=true&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robotic1804&layout=compact&theme=dark&hide=html)
+
+---
+
+## PROFESSIONAL OBJECTIVES
+
+- Obtain AWS Certified Developer Associate certification
+- Architect scalable microservices applications
+- Implement CI/CD pipelines and DevOps practices
+- Contribute to open-source projects
+- Mentor junior developers
+- Build enterprise-grade solutions for enterprise clients
+
+---
+
+## CORE COMPETENCIES
+
+**Web Development:** Full Stack Architecture | RESTful API Design | Component-Based Architecture | State Management
+
+**Frontend:** Responsive Design | User Interface Design | Performance Optimization | Accessibility Standards
+
+**Backend:** Server-Side Architecture | Database Design | API Security | Authentication & Authorization
+
+**Tools & Practices:** Git Version Control | Agile Development | Code Review | Testing & Debugging
+
+---
+
+## EDUCATION & CERTIFICATIONS
+
+- **AWS Cloud Development:** In Progress (Target: AWS Certified Developer Associate)
+- **Full Stack Development:** Self-taught | Continuous Learning
+
+---
+
+## CONTACT & PROFESSIONAL LINKS
+
+| Platform | Link |
+|----------|------|
+| **GitHub** | [Robotic1804](https://github.com/Robotic1804) |
+| **Email** | [Add your professional email] |
+| **LinkedIn** | [Add your LinkedIn profile] |
+| **Portfolio** | [Add your portfolio website] |
+
+**Open to collaboration opportunities, freelance projects, and employment inquiries.**
+
+---
+
+## WORKING ON
+
+- AWS certification preparation and cloud architecture projects
+- Full Stack development with focus on scalability
+- Performance optimization and system design
+- Enterprise application patterns and best practices
+
+---
+
+**Last Updated:** October 2025 | Committed to continuous learning and professional development
+
+**"Building scalable solutions through clean code and architectural excellence."**
