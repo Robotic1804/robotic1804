@@ -150,11 +150,13 @@ Educational project implementing CRUD (Create, Read, Update, Delete) operations 
 | Platform | Link |
 |----------|------|
 | **GitHub** | [Robotic1804](https://github.com/Robotic1804) |
-| **Email** | [Add your professional email] |
-| **LinkedIn** | [Add your LinkedIn profile] |
-| **Portfolio** | [Add your portfolio website] |
+| **Email** | norman-navarro@webdesigner.com |
+| **LinkedIn** | [norm-frontend-developer](https://www.linkedin.com/in/norm-frontend-developer/) |
+| **Portfolio** | [www.norman-webdesigner.com](https://www.norman-webdesigner.com) |
 
 **Open to collaboration opportunities, freelance projects, and employment inquiries.**
+
+For inquiries regarding development services, consulting, or project collaboration, please reach out via email or LinkedIn.
 
 ---
 
